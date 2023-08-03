@@ -11,6 +11,6 @@ int main()
 {
     int num1, num2;
     cin>> num1>> num2;
-    cout << "gcd of "<< num1 << num2 <<" is "<<gcd (num1, num2);
+    cout << "gcd of "<< num1 << " "<< num2 <<" is "<<gcd (num1, num2);
     return 0;
 }
