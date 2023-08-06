@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int len, i, j;
-    cout<< "Enter a number :";
+    cout<< "Enter a length :";
     cin>> len;
     for (i=0; i<len; i++)
     {
