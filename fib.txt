@@ -1,0 +1,2 @@
+fibonacci is the additon of 
+3rd num = 2nd num + 1st num

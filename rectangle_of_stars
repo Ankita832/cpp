@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int row, colm;
+    cout<< "Enter row: ";
+    cin>> row;
+    cout >> " Enter column: ";
+    cin>> colm;
+    for (int i;)
+}
