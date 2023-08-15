@@ -18,7 +18,7 @@ int main()
       cout<<"\n";
    }
    //printing the lower triangle
-   space = 1;
+  /* space = 1;
    for  (i = 1; i<= n - 1; i++)
    {
       for  (j = 1; j <= space; j++)
@@ -27,6 +27,6 @@ int main()
       for  (k = 1 ; k <= 2 * (n - i) - 1; k++)
          cout<<"*";
       cout<<"\n";
-   }
+   }*/
    return 0;
 }
