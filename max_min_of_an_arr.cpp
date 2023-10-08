@@ -13,8 +13,8 @@ int main ()
     {
         if (max < arr[i])
             max = arr[i];
-             else (min > arr[i])
-                min = arr[i];
+             else (min > arr[i]);
+                min= arr[i];
     }
     cout << "Largest element : " << max;
     cout << "\nSmallest element : " << min;
